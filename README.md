@@ -63,7 +63,7 @@ go to "client-1"  but log in as mydomain.com\jane_admin and go to the command pr
 ![Screenshot 2025-01-31 214347](https://github.com/user-attachments/assets/d2ef564b-4609-4808-bd36-e42cef769152)
 
 <p>
-Now login  one of the 10,000 users and keep putting the incorrect password.
+Now login to  one of the 10,000 users and keep putting the incorrect password.
 </p>
 <br />
 
@@ -72,7 +72,7 @@ Now login  one of the 10,000 users and keep putting the incorrect password.
 ![Screenshot 2025-01-31 214822](https://github.com/user-attachments/assets/45814949-cc93-4dfd-825f-4ad1e08caa72)
 
 <p>
-Now go back to "dc-1" and to one of 10,000 users that you pick and right click and then click on reset password. Now you can reset the password or just unlock the account.
+Now go back to "dc-1" and to one of the 10,000 users that you pick and right click and then click on reset password. Now you can reset the password or just unlock the account.
 </p>
 <br />
 
@@ -119,10 +119,10 @@ Folder: “It Manager”, Group: “It Manager”, Permissions: “Read/Write”
 
 ![Screenshot 2025-01-31 220849](https://github.com/user-attachments/assets/8abbe2cc-e3b0-4810-9e0a-88e16c10fa14)
 
-![Screenshot 2025-01-31 221119](https://github.com/user-attachments/assets/5367d91e-556c-42e9-b7e3-0217e493c3b8)|
+![Screenshot 2025-01-31 221119](https://github.com/user-attachments/assets/5367d91e-556c-42e9-b7e3-0217e493c3b8)
 
 <p>
-Try to access the folders you just created. Which folders can you access? Which folders can you create stuff in?
+As a user(employee -10,000 users).Try to access the folders you just created. Which folders can you access? Which folders can you create stuff in? 
 </p>
 <br />
 
