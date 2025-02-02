@@ -7,7 +7,7 @@ This tutorial guides the implementation of Active Directory within Microsoft Azu
 
 <h2>Prerequisites</h2>
 
-- [On-premises the Active Directory within Azure VMs Part 2](https://github.com/BenjaminG-Dreams/configure-ad2)
+- [On-premises the Active Directory within Azure VMs Part 3](https://github.com/BenjaminG-Dreams/configure-ad3)
 
 <h2>Technologies and Enviroments Used</h2>
 
